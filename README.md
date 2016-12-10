@@ -28,6 +28,12 @@ Just create one layer for each exposure, call the plugin and a new layer will be
    These will be deleted at the end of the process.
 5. Click OK. The process will begin and at the end the resulting image will be shown as a new layer.
 
+## To-Do
+
+* Find and kill bugs
+* Move the Enfuse and Temp folder paths to the settings
+* Allow user to set Enfuse parameters instead of using the defaults
+* Add image alignment
 
 ## Acknowledgements
 
